@@ -6,7 +6,7 @@
   </span>
 </p>
 
-<p align="center" style="margin-top:12px;">
+<p align="center" style="margin-top:14px;">
   <a href="https://www.linkedin.com/in/guillermosant">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
   </a>
@@ -19,6 +19,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
   </a>
 </p>
+
+<hr style="border:0.5px solid #E0E0E0; width:65%; margin:auto; margin-top:20px;">
 
 ---
 
@@ -33,40 +35,38 @@ I am interested in building functional and well‑structured software, from devi
 * **Data Engineering:** Building ETL pipelines in Palantir Foundry and designing dashboards in Tableau.
 * **Management:** Experience applying SCRUM for coordinating technical teams and development projects.
 
-
 ---
 
 ### Tech Stack
 
-<span style="color:#007AFF"><b>Languages & Frameworks</b></span>  
+<span style="color:#007AFF; font-weight:600;">Languages & Frameworks</span>  
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,express,flask,react,flutter,supabase,postgres)](https://skillicons.dev)
 
-<span style="color:#FF6584"><b>Hardware & Tools</b></span>  
+<span style="color:#FF6584; font-weight:600;">Hardware & Tools</span>  
 <br>
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,github,docker,postman,vscode,figma)](https://skillicons.dev)
+
+---
 
 ### 🔭 Future Focus
 
 <p align="center">
   <span style="font-size:15px; color:#1F2A44;">
-    I’m currently expanding my skills in modern technologies that complement my work in Full‑Stack, IoT, and Data Engineering.
+    I’m currently expanding my skills in technologies that strengthen my work in Full‑Stack, IoT, and Data Engineering.
   </span>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="32" alt="Rust"/>
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" height="32" alt="Go"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" height="32" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="Kubernetes"/>
 </p>
 
 <p align="center" style="color:#1F2A44; font-size:14px;">
-  Rust for systems programming · Go for backend performance · Cloud & DevOps for scalable architectures
+  Go for backend performance · Cloud platforms for scalable architectures · Kubernetes for modern deployment workflows
 </p>
-
