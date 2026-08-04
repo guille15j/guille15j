@@ -45,3 +45,28 @@ I am interested in building functional and well‑structured software, from devi
 <span style="color:#FF6584"><b>Hardware & Tools</b></span>  
 <br>
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,github,docker,postman,vscode,figma)](https://skillicons.dev)
+
+### 🔭 Future Focus
+
+<p align="center">
+  <span style="font-size:15px; color:#1F2A44;">
+    I’m currently expanding my skills in modern technologies that complement my work in Full‑Stack, IoT, and Data Engineering.
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="32" alt="Rust"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="32" alt="Go"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="Kubernetes"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" height="32" alt="Terraform"/>
+</p>
+
+<p align="center" style="color:#1F2A44; font-size:14px;">
+  Rust for systems programming · Go for backend performance · Cloud & DevOps for scalable architectures
+</p>
+
