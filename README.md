@@ -2,7 +2,7 @@
 
 `Full-Stack` · `IoT & Embedded` · `Data Engineering`
 
-[LinkedIn]([https://linkedin.com/in/TU_USUARIO_LINKEDIN](http://www.linkedin.com/in/guillermosant)) · [Portfolio]([https://TU_PORTFOLIO_URL](https://portfolio-personal-black-ten.vercel.app/)) · [Email](mailto:guillermosantosanchez@gmail.com)
+[LinkedIn](https://linkedin.com/in/TU_USUARIO_LINKEDIN](http://www.linkedin.com/in/guillermosant)) · [Portfolio](https://TU_PORTFOLIO_URL](https://portfolio-personal-black-ten.vercel.app/)) · [Email](mailto:guillermosantosanchez@gmail.com)
 
 ---
 
