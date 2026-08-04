@@ -3,27 +3,19 @@
 `Full-Stack` · `IoT & Embedded` · `Data Engineering`
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/guillermosant" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" style="vertical-align:middle;"/>
-    <span style="color:#007AFF; font-weight:600; margin-left:6px;">LinkedIn</span>
+  <a href="https://www.linkedin.com/in/guillermosant">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
   </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://portfolio-personal-black-ten.vercel.app/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=webflow" height="28" style="vertical-align:middle;"/>
-    <span style="color:#007AFF; font-weight:600; margin-left:6px;">Portfolio</span>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-personal-black-ten.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=webflow" height="32" alt="Portfolio"/>
   </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="28" style="vertical-align:middle;"/>
-    <span style="color:#007AFF; font-weight:600; margin-left:6px;">Email</span>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
-
 </p>
+
 
 
 
