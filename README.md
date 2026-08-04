@@ -20,12 +20,14 @@ I am interested in building functional and well‑structured software, from devi
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-**Languages & Frameworks**
-<br><br>
+<span style="color:#007AFF"><b>Languages & Frameworks</b></span>  
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,express,flask,react,flutter,supabase,postgres)](https://skillicons.dev)
 
-**Hardware & Tools**
-<br><br>
+<span style="color:#FF6584"><b>Hardware & Tools</b></span>  
+<br>
+<br>
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,github,docker,postman,vscode,figma)](https://skillicons.dev)
