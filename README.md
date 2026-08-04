@@ -20,8 +20,6 @@
   </a>
 </p>
 
-<hr style="border:0.5px solid #E0E0E0; width:65%; margin:auto; margin-top:20px;">
-
 ---
 
 ### About
@@ -49,7 +47,7 @@ I am interested in building functional and well‑structured software, from devi
 
 ---
 
-### 🔭 Future Focus
+### Future Focus
 
 <p align="center">
   <span style="font-size:15px; color:#1F2A44;">
@@ -58,13 +56,13 @@ I am interested in building functional and well‑structured software, from devi
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="32" alt="Go"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/>
 </p>
 
 <p align="center" style="color:#1F2A44; font-size:14px;">
