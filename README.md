@@ -1,6 +1,5 @@
-<p align="center" style="color:#1F2A44; font-size:32px; font-weight:700; margin:0;">
-  Guillermo Santos Sánchez
-</p>
+<h1 align="center" style="color:#1F2A44">Guillermo Santos Sánchez</h1>
+
 
 
 <p align="center">
