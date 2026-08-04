@@ -1,28 +1,24 @@
 <h1 align="center">Guillermo Santos Sánchez</h1>
 
 <p align="center">
-  <span style="font-size:16px; color:#1F2A44; font-weight:600;">
-    Full‑Stack · IoT & Embedded · Data Engineering
+  <span style="font-size:18px; color:#1F2A44; font-weight:600;">
+    Full‑Stack Developer · IoT & Embedded Systems · Data Engineering
   </span>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:12px;">
   <a href="https://www.linkedin.com/in/guillermosant">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-personal-black-ten.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=webflow" height="32" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
   </a>
 </p>
-
-<hr style="border:0.5px solid #E0E0E0; width:60%; margin:auto;">
-
-
 
 ---
 
