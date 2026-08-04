@@ -3,16 +3,11 @@
 `Full-Stack` · `IoT & Embedded` · `Data Engineering`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillermosant">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://portfolio-personal-black-ten.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=webflow" height="40"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/guillermosant" style="color:#007AFF"><b>LinkedIn</b></a> · 
+  <a href="https://portfolio-personal-black-ten.vercel.app/" style="color:#007AFF"><b>Portfolio</b></a> · 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub" style="color:#007AFF"><b>Email</b></a>
 </p>
+
 
 
 ---
