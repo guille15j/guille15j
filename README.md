@@ -2,7 +2,18 @@
 
 `Full-Stack` · `IoT & Embedded` · `Data Engineering`
 
-[LinkedIn](https://www.linkedin.com/in/guillermosant) · [Portfolio](https://portfolio-personal-black-ten.vercel.app/) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guillermosant">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://portfolio-personal-black-ten.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=webflow" height="40"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guillermosantosanchez@gmail.com&su=Contacto%20desde%20GitHub">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
 
 ---
 
