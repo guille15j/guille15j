@@ -2,7 +2,7 @@
 
 `Full-Stack` · `IoT & Embedded` · `Data Engineering`
 
-[LinkedIn](https://linkedin.com/in/TU_USUARIO_LINKEDIN) · [Portfolio](https://TU_PORTFOLIO_URL) · [Email](mailto:guillermosantosanchez@gmail.com)
+[LinkedIn]([https://linkedin.com/in/TU_USUARIO_LINKEDIN](http://www.linkedin.com/in/guillermosant)) · [Portfolio]([https://TU_PORTFOLIO_URL](https://portfolio-personal-black-ten.vercel.app/)) · [Email](mailto:guillermosantosanchez@gmail.com)
 
 ---
 
@@ -26,12 +26,3 @@ Me interesa construir software funcional y bien estructurado, desde el control d
 
 **Hardware & Tools**
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,github,docker,postman,vscode,figma)](https://skillicons.dev)
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="45%" />
-</p>
