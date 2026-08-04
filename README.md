@@ -1,31 +1,33 @@
-<!-- HEADER BANNER ANIMADO -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=%C2%A1Hola!+Soy+Guillermo+Santos+%F0%9F%90%A7;Desarrollador+Full-Stack+%26+IoT;Ingenier%C3%ADa+de+Datos+%7C+Palantir+Foundry;ESP32+%2B+Desarrollo+Web+%2B+Scrum" alt="Typing SVG" />
-  </a>
-</p>
+# 👋 ¡Hola, bienvenido a mi perfil!
 
-<!-- BADGES DE CONTACTO Y UBICACIÓN -->
-<p align="center">
+### Soy Guillermo Santos — Desarrollador Full-Stack, IoT & Data
+
+<p align="left">
   <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guillermosantosanchez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://TU_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Ubicación-Parla%2C%20Madrid-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### ✉️ Carta de Presentación
 
-Desarrollador polivalente especializado en conectar el **mundo físico (Hardware/IoT)** con el **mundo digital (Web Full-Stack & Datos)**. 
+¡Gracias por pasarte por mi GitHub! 
 
-- 🎓 **Formación:** Grado Superior en DAM + ~180 ECTS cursados en **Ingeniería Telemática (UPM)**.
-- ⚡ **Enfoque:** Construcción de soluciones web funcionales, comunicación telemétrica de hardware y pipelines de datos.
-- 👥 **Metodología:** Experiencia coordinando equipos técnicos e implementando **SCRUM** en proyectos reales.
+Soy un apasionado de la tecnología con una visión global del desarrollo: me motiva tanto la **capa física del hardware** como el **desarrollo web moderno** y el **procesamiento de datos a escala**. Mi trayectoria combina la titulación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con una sólida base en **Ingeniería Telemática (UPM)**.
+
+Lo que me define como desarrollador es el enfoque práctico e integral:
+* **En el desarrollo web:** Me gusta construir aplicaciones sencillas, eficientes y orientadas a solucionar problemas reales (Stack JS, Node.js, Python, Supabase/PostgreSQL, REST APIs).
+* **En el mundo del hardware e IoT:** Disfruto conectando sensórica y microcontroladores (ESP32, Arduino) con plataformas digitales mediante protocolos telemétricos y comunicación serie en tiempo real.
+* **En la ingeniería de datos:** Tengo experiencia diseñando flujos ETL para integrar datos heterogéneos en plataformas como **Palantir Foundry** y construyendo paneles analíticos en **Tableau**.
+
+Además del código, disfruto trabajando en equipo. He coordinado proyectos técnicos aplicando metodologías ágiles (**SCRUM**), facilitando la comunicación interna y acompañando a otros desarrolladores en su crecimiento.
+
+Me mueve la curiosidad constante, el código limpio y la búsqueda de retos donde pueda aportar soluciones reales desde la primera línea de código.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Mi Stack Tecnológico
 
 #### 🔹 Lenguajes & Bases de Datos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +39,7 @@ Desarrollador polivalente especializado en conectar el **mundo físico (Hardware
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🔹 Full-Stack & Frameworks
+#### 🔹 Web Full-Stack & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -52,35 +54,36 @@ Desarrollador polivalente especializado en conectar el **mundo físico (Hardware
 ![Palantir Foundry](https://img.shields.io/badge/Palantir_Foundry-101828?style=for-the-badge&logo=palantir&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-#### 🔹 Entornos & DevOps
+#### 🔹 Herramientas & Trabajo en Equipo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SCRUM](https://img.shields.io/badge/Agile-SCRUM-6B21A8?style=for-the-badge)
 
 ---
 
-### 🚀 Áreas de Especialización
+### 💡 Pilares de Trabajo
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🌐 Web Full-Stack</h3>
+      <h3 align="center">🌐 Desarrollo Web</h3>
       <p align="center">
-        Desarrollo end-to-end de aplicaciones web empresariales, gestión de base de datos con Supabase/PostgreSQL y autenticación por roles.
+        Diseño e implementación de aplicaciones web interactivas, integración de bases de datos y creación de APIs REST.
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">📡 IoT & Telemetría</h3>
       <p align="center">
-        Programación de microcontroladores (ESP32/Arduino), integración de sensórica y protocolos de comunicación serie/UART en tiempo real.
+        Programación de sistemas embebidos, adquisición de datos en tiempo real y comunicación serie/UART entre dispositivos.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📊 Data Engineering</h3>
+      <h3 align="center">📊 Datos & ETL</h3>
       <p align="center">
-        Construcción de pipelines ETL para ingesta de datos heterogéneos en Palantir Foundry y visualización de KPIs en Tableau.
+        Construcción de pipelines de datos en Palantir Foundry y visualización de métricas clave para la toma de decisiones.
       </p>
     </td>
   </tr>
@@ -88,7 +91,7 @@ Desarrollador polivalente especializado en conectar el **mundo físico (Hardware
 
 ---
 
-### 📈 Métricas de GitHub
+### 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO_GITHUB&theme=tokyonight" alt="Perfil de GitHub" width="49%" />
@@ -98,5 +101,5 @@ Desarrollador polivalente especializado en conectar el **mundo físico (Hardware
 ---
 
 <p align="center">
-  <sub><i>💡 "Construyendo soluciones prácticas desde la capa de hardware hasta la interfaz web."</i></sub>
+  <sub><i>"Construyendo software práctico desde la capa física hasta la web."</i></sub>
 </p>
