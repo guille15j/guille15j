@@ -8,14 +8,15 @@
 
 ### About
 
-Desarrollador enfocado en la integración entre hardware, desarrollo web y procesamiento de datos. Mi perfil combina la titulación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con formación en **Ingeniería Telemática (UPM)**.
+Developer focused on the integration of hardware, web development, and data processing. My profile combines a degree in **Multiplatform Application Development (DAM)** with training in **Telematics Engineering (UPM)**.
 
-Me interesa construir software funcional y bien estructurado, desde el control de dispositivos hasta la capa de aplicación y analítica.
+I am interested in building functional and well‑structured software, from device control to the application layer and analytics.
 
-* **Web & Backend:** Desarrollo de aplicaciones y APIs REST utilizando JavaScript, Node.js, Python, Supabase y PostgreSQL.
-* **IoT & Telemetría:** Programación de microcontroladores (ESP32, Arduino), lectura de sensórica y transmisión de datos serie/UART.
-* **Ingeniería de Datos:** Creación de pipelines ETL en Palantir Foundry y modelado de dashboards en Tableau.
-* **Gestión:** Experiencia aplicando SCRUM en la coordinación de equipos técnicos y proyectos de desarrollo.
+* **Web & Backend:** Development of applications and REST APIs using JavaScript, Node.js, Python, Supabase, and PostgreSQL.
+* **IoT & Telemetry:** Programming microcontrollers (ESP32, Arduino), sensor data acquisition, and serial/UART communication.
+* **Data Engineering:** Building ETL pipelines in Palantir Foundry and designing dashboards in Tableau.
+* **Management:** Experience applying SCRUM for coordinating technical teams and development projects.
+
 
 ---
 
