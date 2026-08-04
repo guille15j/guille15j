@@ -1,4 +1,4 @@
-<h1 align="center">Guillermo Santos Sánchez</h1>
+<h1 align="center" style="color:#1F2A44">Guillermo Santos Sánchez</h1>
 
 <p align="center">
   <span style="font-size:18px; color:#1F2A44; font-weight:600;">
