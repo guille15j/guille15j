@@ -1,7 +1,5 @@
 # Guillermo Santos
-
-> **Desarrollador Full-Stack, IoT & Data**  
-> *Conectando la capa física del hardware con el desarrollo web y el análisis de datos.*
+### Full-Stack, IoT & Data Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181b?style=flat&logo=aboutdotme&logoColor=white)](https://TU_PORTFOLIO_URL)
@@ -9,17 +7,42 @@
 
 ---
 
+> 💬 **"Construyo soluciones digitales completas: desde los impulsos eléctricos del hardware hasta la interfaz web y el análisis de datos."**
+
+---
+
 ### ✉️ Carta de Presentación
 
-¡Hola! Bienvenido a mi perfil.
+¡Hola! 👋 Gracias por pasarte por mi espacio.
 
-Soy un desarrollador enfocado en construir software práctico y eficiente. Mi perfil combina la titulación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con una sólida formación en **Ingeniería Telemática (UPM)**, lo que me permite moverme con soltura entre el hardware, el código web y la ingeniería de datos.
+Mi perfil combina la visión práctica de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con la base técnica de **Ingeniería Telemática (UPM)**. Esta mezcla me permite entender un sistema de forma global: no solo cómo se programa una aplicación, sino cómo fluye la información por la red, cómo responde un chip y cómo se analizan esos datos a gran escala.
 
-**En mi día a día me enfoco en:**
-* **Web & APIs:** Desarrollo de aplicaciones web interactivas, gestión de bases de datos y creación de APIs REST (Node.js, Python, Supabase/PostgreSQL).
-* **IoT & Telemetría:** Integración de microcontroladores (ESP32, Arduino), sensórica y transmisión de datos serie/UART en tiempo real.
-* **Ingeniería de Datos:** Construcción y mantenimiento de pipelines ETL en **Palantir Foundry** y desarrollo de cuadros de mando en **Tableau**.
-* **Trabajo en Equipo:** Coordinación de proyectos bajo metodología **SCRUM**, enfocándome en la comunicación clara y entregas iterativas.
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚡ Web & Backend</h4>
+      <p>Construyo aplicaciones funcionales y limpias en <b>Node.js, Python, Supabase y PostgreSQL</b>. Me enfoco en la experiencia de usuario, permisos por roles y APIs REST sólidas.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📡 IoT & Hardware</h4>
+      <p>Doy vida a la capa física con <b>ESP32 y Arduino</b>, integrando sensórica y transmisión de datos serie/UART en tiempo real hacia plataformas digitales.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Datos & ETL</h4>
+      <p>Transformo fuentes heterogéneas en flujos estructurados creando pipelines ETL en <b>Palantir Foundry</b> y paneles analíticos en <b>Tableau</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+#### 🌱 ¿Cómo me gusta trabajar?
+
+* **Pragmatismo & Calidad:** Prefiero el código limpio, bien estructurado y funcional antes que la sobreingeniería.
+* **Trabajo en Equipo:** Experiencia coordinando proyectos mediante **SCRUM**, promoviendo la comunicación clara, iteraciones cortas y un ambiente colaborativo.
+* **Curiosidad Constante:** En constante aprendizaje para integrar nuevas herramientas que aporten valor real a cada desarrollo.
 
 ---
 
@@ -28,23 +51,8 @@ Soy un desarrollador enfocado en construir software práctico y eficiente. Mi pe
 #### Lenguajes & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,express,flask,react,flutter,supabase,postgres)](https://skillicons.dev)
 
-#### Herramientas, Entornos & Hardware
+#### Herramientas & Entornos
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,github,docker,postman,vscode,figma)](https://skillicons.dev)
-
-> **Especialidades clave:** ESP32 · Palantir Foundry · Tableau · Protocolos Serie/UART · SCRUM · APIs REST
-
----
-
-### 📌 Áreas de Trabajo
-
-> **🌐 Web Full-Stack**  
-> Desarrollo end-to-end de soluciones web, control de acceso por roles y optimización de flujos de trabajo operativos.
-
-> **📡 IoT & Sistemas Embebidos**  
-> Adquisición de datos en tiempo real, programación de firmware y comunicación bidireccional hardware-software.
-
-> **📊 Analítica & ETL**  
-> Integración de fuentes de datos heterogéneas en Palantir Foundry y visualización de métricas analíticas.
 
 ---
 
