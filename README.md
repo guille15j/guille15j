@@ -7,46 +7,54 @@
 
 ---
 
-> 💬 **"Construyo soluciones digitales completas: desde los impulsos eléctricos del hardware hasta la interfaz web y el análisis de datos."**
+> **"Construyo soluciones digitales completas: desde los impulsos eléctricos del hardware hasta la interfaz web y el análisis de datos."**
 
 ---
 
-### ✉️ Carta de Presentación
+### PRESENTACIÓN
 
-¡Hola! 👋 Gracias por pasarte por mi espacio.
+![Perfil](https://img.shields.io/badge/PERFIL-HÍBRIDO-2563eb?style=flat-square)
 
-Mi perfil combina la visión práctica de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con la base técnica de **Ingeniería Telemática (UPM)**. Esta mezcla me permite entender un sistema de forma global: no solo cómo se programa una aplicación, sino cómo fluye la información por la red, cómo responde un chip y cómo se analizan esos datos a gran escala.
+Mi trayectoria combina la visión práctica del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con la solidez técnica de la **Ingeniería Telemática (UPM)**. Esta formación me permite abordar los proyectos informáticos con una perspectiva global: comprendiendo desde el comportamiento del hardware hasta la arquitectura web y el procesamiento masivo de información.
 
 <br/>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚡ Web & Backend</h4>
-      <p>Construyo aplicaciones funcionales y limpias en <b>Node.js, Python, Supabase y PostgreSQL</b>. Me enfoco en la experiencia de usuario, permisos por roles y APIs REST sólidas.</p>
+      <img src="https://img.shields.io/badge/STACK-Web%20%26%20Backend-0284c7?style=flat-square" />
+      <br/><br/>
+      <p>Construcción de aplicaciones funcionales en <b>Node.js, Python, Supabase y PostgreSQL</b>. Enfoque en arquitectura limpia, permisos por roles y APIs REST robustas.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📡 IoT & Hardware</h4>
-      <p>Doy vida a la capa física con <b>ESP32 y Arduino</b>, integrando sensórica y transmisión de datos serie/UART en tiempo real hacia plataformas digitales.</p>
+      <img src="https://img.shields.io/badge/HARDWARE-IoT%20%26%20Telemetría-059669?style=flat-square" />
+      <br/><br/>
+      <p>Desarrollo en la capa física con <b>ESP32 y Arduino</b>, integrando sensórica y transmisión de datos serie/UART en tiempo real hacia plataformas digitales.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📊 Datos & ETL</h4>
-      <p>Transformo fuentes heterogéneas en flujos estructurados creando pipelines ETL en <b>Palantir Foundry</b> y paneles analíticos en <b>Tableau</b>.</p>
+      <img src="https://img.shields.io/badge/ANALYTICS-Datos%20%26%20ETL-d97706?style=flat-square" />
+      <br/><br/>
+      <p>Transformación de fuentes heterogéneas creando pipelines ETL en <b>Palantir Foundry</b> y paneles analíticos interactivos en <b>Tableau</b>.</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-#### 🌱 ¿Cómo me gusta trabajar?
+#### METODOLOGÍA Y PILARES DE TRABAJO
 
-* **Pragmatismo & Calidad:** Prefiero el código limpio, bien estructurado y funcional antes que la sobreingeniería.
-* **Trabajo en Equipo:** Experiencia coordinando proyectos mediante **SCRUM**, promoviendo la comunicación clara, iteraciones cortas y un ambiente colaborativo.
-* **Curiosidad Constante:** En constante aprendizaje para integrar nuevas herramientas que aporten valor real a cada desarrollo.
+* ![Pragmatismo](https://img.shields.io/badge/CÓDIGO-Limpio%20%26%20Pragmático-475569?style=flat-square)  
+  Priorizo el software funcional, escalable y bien estructurado por encima de la sobreingeniería.
+
+* ![Agile](https://img.shields.io/badge/EQUIPO-Framework%20SCRUM-9333ea?style=flat-square)  
+  Experiencia coordinando proyectos bajo metodologías ágiles, fomentando la comunicación transparente y las entregas iterativas.
+
+* ![Aprendizaje](https://img.shields.io/badge/EVOLUCIÓN-Mejora%20Continua-0f766e?style=flat-square)  
+  Capacidad de adaptación constante para integrar nuevas herramientas técnicas que aporten valor real al producto final.
 
 ---
 
-### 🛠️ Tech Stack
+### TECH STACK
 
 #### Lenguajes & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,express,flask,react,flutter,supabase,postgres)](https://skillicons.dev)
@@ -56,9 +64,9 @@ Mi perfil combina la visión práctica de **Desarrollo de Aplicaciones Multiplat
 
 ---
 
-### 📈 Actividad
+### ACTIVIDAD EN GITHUB
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=0284c7&text_color=94a3b8&icon_color=0284c7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=0284c7&text_color=94a3b8" alt="Top Languages" width="45%" />
 </p>
